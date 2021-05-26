@@ -137,9 +137,7 @@ h1 {
   padding-left: 5px;
 }
 .stadium {
-  border: solid 5px;
-  width: 100%;
-  position: absolute;
+  max-width: 100%;
 }
 .center {
 
