@@ -138,7 +138,8 @@ h1 {
 }
 .stadium {
   border: solid 5px;
-  width: 95%;
+  width: 100%;
+  position: absolute;
 }
 .center {
 
